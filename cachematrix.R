@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-
+ one line added by pat, to test the first commit
 }
 
 
